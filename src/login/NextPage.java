@@ -2,8 +2,8 @@ package login;
 
 //importing various packages or classes.
 import javax.swing.*;
-import java.awt.*;
-
+//import java.awt.*;
+@SuppressWarnings("serial")
 class NextPage extends JFrame { 
 	NextPage(){
 		//defining the default close operation that is closing using the top right button
